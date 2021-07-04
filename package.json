@@ -1,0 +1,23 @@
+{
+  "name": "front-end-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariobrusarosco/front-end-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariobrusarosco/front-end-utils/issues"
+  },
+  "homepage": "https://github.com/mariobrusarosco/front-end-utils#readme",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
